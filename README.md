@@ -1,4 +1,4 @@
-Reproducible-research-project-1
+Reproducible Research Project 1
 ===============================
 
 The goal of this assignment is to analyze a set of data and document it so that it is reproducible by others. After all, if others can't replicate it, it is not science. The components of this repo are as follows:  
