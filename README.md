@@ -1,5 +1,3 @@
-# ReproducibleResearchP1-
-
 Reproducible-research-project-1
 ===============================
 
